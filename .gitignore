@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-constants/api
+constants/api.js
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
